@@ -1,4 +1,4 @@
 watchdog-examples
 =================
 
-WatchDog examples
+WatchDog testing / DSL extension.
